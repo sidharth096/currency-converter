@@ -11,7 +11,6 @@ This package can be installed using `npm`
 
 ```
 npm i currency-converter-pro
-
 ```
 
 ## Usage
