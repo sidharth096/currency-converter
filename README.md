@@ -9,7 +9,9 @@ An NPM package for effortless currency conversion with real-time exchange rates.
 
 This package can be installed using `npm`
 
-```npm i currency-converter-pro
+```
+npm i currency-converter-pro
+
 ```
 
 ## Usage
